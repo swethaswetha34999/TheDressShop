@@ -1,0 +1,38 @@
+.div16{
+	border: 1px black solid;
+	padding: 0px;
+	display: flex;
+	justify-content: space-between;
+
+}
+.div16 img{
+	width: 800px;
+	padding-left:10px ;
+	border: 1px black solid;
+	padding-right: 10px;
+	
+	
+}
+
+.div16 nav{
+	padding-left: 20px ;
+	text-align: center;
+	font-size: bolder;
+	padding-right: 20px ;
+
+	
+}
+
+.div16 form{
+	align-content: center;
+}
+
+.div10 a{
+	text-decoration: none;
+}
+
+.div10 a:hover{
+	color: res;
+	
+}
+

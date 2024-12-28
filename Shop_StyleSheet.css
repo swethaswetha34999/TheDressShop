@@ -1,0 +1,298 @@
+body
+{
+	background-color: #dbbac2;
+}
+h1{
+	text-shadow: 5px 5px goldenrod;
+}
+
+a:hover{
+	border-radius: 50px;
+	width: 200px;
+	height: 20px;
+	color: red;
+}
+.div1{
+	display: flex;
+	justify-content: space-between;
+}
+.h1-1{
+	color: goldenrod;
+	text-align: center;
+	padding-left: 30px;
+	font-size: 50px;
+	padding-top: 10px;
+		margin-top: 10px;
+		text-shadow: 2px 2px goldenrod;
+}
+
+#nav1
+{
+	display: flex;
+	justify-content: space-between;
+	background-color: #2e0508;
+
+
+	height: 100px;
+
+}
+#nav1 a{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	border: 1px goldenrod solid;
+	align-items: center;
+	padding-top: 15px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width: 100px;
+
+	
+}
+img{
+	width: 1000px;
+	height: 700px;
+	padding-left: 200px;
+	padding-top: 50px;
+}
+.h1-2{
+	text-align: center;
+	font-size: 100px;
+	font-weight: lighter;
+}
+
+#nav2{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: #2e0508;
+}
+#nav2 a{
+	height: 100px;
+	width: 300px;
+	background-color: ;
+	background-size: 50px;
+	padding-top: 50px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	border: 1px goldenrod solid;
+	align-items: center;
+}
+
+
+
+	
+
+.div4{
+	display: flex;
+
+	padding-left: 0px;
+	margin-left: 0px;
+	
+}
+
+.div4 img{
+	width: 270px;
+	height: 270px;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+
+.div4 figcaption{
+	font-size: 30px;
+	text-align: center;
+	margin-left: 0px;
+	padding-left: 0px;
+
+	
+}
+
+.div5,.div6{
+	text-align: center;
+	width: 800px;
+	padding-left: 300px;
+
+}
+
+.div5 h2{		font-size: bolder;
+
+
+}
+
+.div6 h2{
+		font-size: bolder;
+
+
+}
+
+
+.div5 p{
+		text-align: justify;
+
+
+}
+
+.div6 p{
+		text-align: justify;
+
+
+}
+
+#nav3{
+	display: flex;
+
+	padding-left: 0px;
+	margin-left: 0px;
+	
+}
+.div7 h2{
+	font-size: 50px;
+	padding-bottom: 0px;
+		margin-bottom: 0px;
+
+
+}
+.div7 h3{
+	font-size: 30px;
+	padding-top: 0px;
+	margin-top: 0px;
+
+}
+
+#nav3 img{
+	width: 270px;
+	height: 400px;
+	margin-left: 0px;
+	padding-left: 30px;
+}
+
+
+#nav3 figcaption{
+	font-size: 30px;
+	text-align: center;
+	
+}
+
+#nav3 input{
+	height: 50px;
+	width: 100px;
+	background-color: black;
+	color: goldenrod;
+}
+
+.div8
+{
+	display: flex;
+	justify-content: space-between;
+	background-image:url(div8.jpeg) ;
+
+}
+
+.div8 h3{
+	background-color: black;
+	color: goldenrod;
+}
+
+.div8 h4{
+	background-color: black;
+	color: goldenrod;
+}
+
+.div9
+{
+	display: flex;
+	
+		background-color: #2e0508;
+		margin-top: 50px;	
+}
+
+.div9 p{
+	background-color: white;
+	color: goldenrod;
+	margin-left: 10px;
+
+}
+
+.div9 .in1{
+	height: 20px;
+	margin-top: 10px;
+	margin-left: 800px;
+
+}
+
+.div9 .in2{
+	height: 20px;
+	margin-top: 10px;
+	padding-right: 10px;
+		margin-right: 10px;
+		background-color: black;
+		color: white;
+
+}
+
+.div10{
+	background-color: white;
+	margin-top: 20px;
+}
+
+.div10 table{
+	text-align: center;
+}
+.div10 tr1{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.div10 tr2{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.div10 tr3{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.div10 tr4{
+	display: flex;
+	justify-content: space-between;
+
+}
+.div10 th{
+	margin:20px;
+.div10 td{
+		margin:20px;
+		text-align: justify;
+
+}
+
+.div11{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.div11 img{
+	padding-left: 10px;
+	margin-left: 10px;
+
+}
+
+#nav13{
+	text-align: justify;
+	background-color: #2e0508;
+	color: white;
+	border: 1px goldenrod solid;
+
+}
+
+
+#div15 img{
+	border: 1px black solid;
+	
+}
